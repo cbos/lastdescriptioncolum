@@ -5,12 +5,11 @@
         <groupId>org.jvnet.hudson.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>1.367</version>
-        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>lastdescriptioncolumn</artifactId>
     <packaging>hpi</packaging>
-    <name>Last Success Description Column</name>
+    <name>Last Description Column</name>
     <version>1.1-SNAPSHOT</version>
     <url>http://wiki.hudson-ci.org/display/HUDSON/Last+Description+Column+Plugin</url>
 
