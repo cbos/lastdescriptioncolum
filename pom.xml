@@ -4,17 +4,22 @@
     <parent>
         <groupId>org.jvnet.hudson.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>1.352</version>
+        <version>1.367</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>lastsuccessdescriptioncolumn</artifactId>
+    <artifactId>lastdescriptioncolumn</artifactId>
     <packaging>hpi</packaging>
     <name>Last Success Description Column</name>
     <version>1.1-SNAPSHOT</version>
-    <url>http://wiki.hudson-ci.org/display/HUDSON/Last+Success+Description+Column+Plugin</url>
+    <url>http://wiki.hudson-ci.org/display/HUDSON/Last+Description+Column+Plugin</url>
 
     <developers>
+      <developer>
+        <id>cbos</id>
+        <name>Cees Bos</name>
+        <email>cbos.ec at gmail</email>
+      </developer>
       <developer>
         <id>stephenconnolly</id>
         <name>Stephen Connolly</name>
